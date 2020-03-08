@@ -13,7 +13,7 @@ The algorithm can be summarized as the following:
 5. Insert the value
 6. Repeat until list is sorted
 
-This is a description of how the Selection Sort works (and is also in the code
+This is a description of how the Insertion Sort works (and is also in the code
 file).
 
 ```
